@@ -6,11 +6,16 @@ Projeto desenvolvido durante o desafio da <strong>Digital Innovation One (DIO)</
 
 <p align="center">
 
-![GitHub Repo Size](https://img.shields.io/github/repo-size/OutrozFor/notebooklm-estudos?style=for-the-badge&color=blue)
-![GitHub Last Commit](https://img.shields.io/github/last-commit/OutrozFor/notebooklm-estudos?style=for-the-badge&color=green)
-![GitHub Language Count](https://img.shields.io/github/languages/count/OutrozFor/notebooklm-estudos?style=for-the-badge)
-![GitHub Top Language](https://img.shields.io/github/languages/top/OutrozFor/notebooklm-estudos?style=for-the-badge)
+<p align="center">
 
+![GitHub last commit](https://img.shields.io/github/last-commit/OutrozFor/notebooklm-estudos?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/OutrozFor/notebooklm-estudos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/OutrozFor/notebooklm-estudos?style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-README-blue?style=for-the-badge&logo=markdown)
+![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-4285F4?style=for-the-badge&logo=google)
+![DIO](https://img.shields.io/badge/DIO-Bootcamp-7B61FF?style=for-the-badge)
+
+</p>
 </p>
 
 ---
@@ -333,7 +338,7 @@ Além do conteúdo estudado, o projeto proporcionou experiência prática na ela
 
 # 👨‍💻 Autor
 
-**Júpiter**
+**Júpiter (OutrozFor)**
 
 Projeto desenvolvido como parte do desafio da **Digital Innovation One (DIO)**.
 
