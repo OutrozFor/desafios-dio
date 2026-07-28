@@ -338,7 +338,7 @@ Além do conteúdo estudado, o projeto proporcionou experiência prática na ela
 
 # 👨‍💻 Autor
 
-**Júlia Fernanda Terra Souza**
+**Júlia Terra**
 
 Projeto desenvolvido como parte do desafio da **Digital Innovation One (DIO)**.
 
