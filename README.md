@@ -338,7 +338,7 @@ Além do conteúdo estudado, o projeto proporcionou experiência prática na ela
 
 # 👨‍💻 Autor
 
-**Júpiter (OutrozFor)**
+**Júlia Fernanda Terra Souza**
 
 Projeto desenvolvido como parte do desafio da **Digital Innovation One (DIO)**.
 
