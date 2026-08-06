@@ -8,9 +8,9 @@ Projeto desenvolvido durante o desafio da <strong>Digital Innovation One (DIO)</
 
 <p align="center">
 
-![GitHub last commit](https://img.shields.io/github/last-commit/OutrozFor/notebooklm-estudos?style=for-the-badge)
-![GitHub Repo stars](https://img.shields.io/github/stars/OutrozFor/notebooklm-estudos?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/OutrozFor/notebooklm-estudos?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/OutrozFor/desafios-dio-estudos?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/OutrozFor/desafios-dio-estudos?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/OutrozFor/desafios-dio-estudos?style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-README-blue?style=for-the-badge&logo=markdown)
 ![NotebookLM](https://img.shields.io/badge/Google-NotebookLM-4285F4?style=for-the-badge&logo=google)
 ![DIO](https://img.shields.io/badge/DIO-Bootcamp-7B61FF?style=for-the-badge)
