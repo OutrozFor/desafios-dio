@@ -42,6 +42,7 @@ desafios-dio/
 
 ├── README.md
 ├── notebook-lm.md
+├── engenharia-de-prompt.md
 │
 └── ...
 ```
