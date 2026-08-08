@@ -55,6 +55,7 @@ Novos desafios serão adicionados conforme forem sendo concluídos.
 | Desafio | Área | Status |
 |---------|------|:------:|
 | 📒 NotebookLM | Inteligência Artificial | ✅ Concluído |
+| 📒 Engenharia de Prompt | Inteligência Artificial | ✅ Concluído |
 
 ---
 
