@@ -161,11 +161,15 @@ Todo o conteúdo deverá ser baseado **exclusivamente nas evidências presentes 
 
 ---
 
-<div align="center">
+<div>
 
-### 🚀 Desenvolvido como parte do **Desafio Criativo da Digital Innovation One (DIO)**
+# 👨‍💻 Autor
 
-⭐ Obrigada por visitar este repositório!
+**Julia Terra**
+
+Projeto desenvolvido como parte do desafio da **Digital Innovation One (DIO)**.
+  
+⭐ Caso tenha gostado deste projeto, deixe uma estrela no repositório!
 
 </div>
 
