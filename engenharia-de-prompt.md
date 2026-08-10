@@ -27,12 +27,12 @@ A proposta consiste em estruturar um comando claro e objetivo para que a IA seja
 
 Construir um prompt capaz de:
 
-- 📊 Classificar feedbacks por tema;
-- 😊 Identificar o sentimento predominante;
-- 🚨 Definir o nível de prioridade;
-- 🔍 Identificar padrões recorrentes;
-- 💡 Sugerir melhorias;
-- 📈 Gerar informações úteis para apoiar decisões estratégicas.
+- Classificar feedbacks por tema;
+- Identificar o sentimento predominante;
+- Definir o nível de prioridade;
+- Identificar padrões recorrentes;
+- Sugerir melhorias;
+- Gerar informações úteis para apoiar decisões estratégicas.
 
 ---
 
@@ -48,12 +48,12 @@ Atue como um **Analista de Dados especializado em Experiência do Cliente (Custo
 
 Analise uma base de feedbacks relacionados aos seguintes serviços:
 
-- 📱 Aplicativo Mobile
-- 💻 Internet Banking
-- 💸 Pix
-- 💳 Cartão de Crédito
-- 💰 Empréstimos
-- 💬 Atendimento ao Cliente
+- Aplicativo Mobile
+- Internet Banking
+- Pix
+- Cartão de Crédito
+- Empréstimos
+- Atendimento ao Cliente
 
 Seu objetivo é identificar:
 
@@ -74,12 +74,12 @@ A análise será utilizada pela equipe de **Experiência do Cliente (CX)** e pel
 
 Os feedbacks poderão conter:
 
-- 📅 Data do comentário;
-- 📞 Canal de atendimento;
-- 💳 Produto ou serviço citado;
-- 💬 Texto do feedback;
-- ⭐ Nota de satisfação (1 a 5);
-- 📍 Cidade ou região (quando disponível).
+- Data do comentário;
+- Canal de atendimento;
+- Produto ou serviço citado;
+- Texto do feedback;
+- Nota de satisfação (1 a 5);
+- Cidade ou região (quando disponível).
 
 ---
 
@@ -139,12 +139,12 @@ Durante toda a análise, a IA deverá seguir obrigatoriamente as seguintes regra
 
 Ao final da execução do prompt, a IA deverá produzir um relatório contendo:
 
-- 📖 Resumo Executivo;
-- 📊 Classificação dos feedbacks;
-- 📈 Identificação de padrões;
-- 😊 Análise de sentimentos;
-- 💡 Recomendações práticas;
-- 🚀 Prioridades para tomada de decisão.
+- Resumo Executivo;
+- Classificação dos feedbacks;
+- Identificação de padrões;
+- Análise de sentimentos;
+- Recomendações práticas;
+- Prioridades para tomada de decisão.
 
 Todo o conteúdo deverá ser baseado **exclusivamente nas evidências presentes nos comentários analisados**.
 
@@ -152,12 +152,12 @@ Todo o conteúdo deverá ser baseado **exclusivamente nas evidências presentes 
 
 # 🛠️ Competências Desenvolvidas
 
-- 🤖 Engenharia de Prompt
-- 🧠 Inteligência Artificial Generativa
-- 📊 Análise de Dados
-- 📈 Extração de Insights
-- 💬 Processamento de Linguagem Natural
-- 📝 Comunicação Técnica
+- Engenharia de Prompt
+- Inteligência Artificial Generativa
+- Análise de Dados
+- Extração de Insights
+- Processamento de Linguagem Natural
+- Comunicação Técnica
 
 ---
 
