@@ -27,11 +27,11 @@ Este espaço funciona como um portfólio da minha evolução, registrando conhec
 
 # 🎯 Objetivos
 
-- 📚 Consolidar os conhecimentos adquiridos na DIO;
-- 💻 Desenvolver soluções para desafios práticos;
-- 🤖 Explorar ferramentas de Inteligência Artificial;
-- 🚀 Aprimorar habilidades em programação;
-- 📂 Construir um portfólio técnico no GitHub.
+- Consolidar os conhecimentos adquiridos na DIO;
+- Desenvolver soluções para desafios práticos;
+- Explorar ferramentas de Inteligência Artificial;
+- Aprimorar habilidades em programação;
+- Construir um portfólio técnico no GitHub.
 
 ---
 
@@ -55,8 +55,8 @@ Novos desafios serão adicionados conforme forem sendo concluídos.
 
 | Desafio | Área | Status |
 |---------|------|:------:|
-| 📒 NotebookLM | Inteligência Artificial | ✅ Concluído |
-| 📒 Engenharia de Prompt | Inteligência Artificial | ✅ Concluído |
+| NotebookLM | Inteligência Artificial | Concluído |
+| Engenharia de Prompt | Inteligência Artificial | Concluído |
 
 ---
 
@@ -85,14 +85,14 @@ Novos desafios serão adicionados conforme forem sendo concluídos.
 
 # 📈 Competências Desenvolvidas
 
-- 🤖 Inteligência Artificial Generativa
-- 🧠 Engenharia de Prompt
-- 💻 Programação
-- 📊 Análise de Dados
-- 📝 Documentação Técnica
-- 🛠️ Git e GitHub
-- 📚 Resolução de Problemas
-- 🚀 Aprendizado Contínuo
+- Inteligência Artificial Generativa
+- Engenharia de Prompt
+- Programação
+- Análise de Dados
+- Documentação Técnica
+- Git e GitHub
+- Resolução de Problemas
+- Aprendizado Contínuo
 
 ---
 
@@ -116,15 +116,9 @@ Todos os desafios presentes neste repositório fazem parte das trilhas de aprend
 
 ---
 
-# 👩💻 Autora
+# 💻 Autora
 
 **Julia Terra**
-
----
-
-# 📄 Licença
-
-Este repositório está licenciado sob a **Licença MIT**.
 
 ---
 
